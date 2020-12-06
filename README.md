@@ -1,9 +1,9 @@
 # 为了生活被迫刷题的打工人
 
-- java
-- cpp
-- javascript
-- python
+- Java
+- CPP
+- JavaScript
+- Python
 
 ## 参考文献
 
